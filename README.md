@@ -1,4 +1,2 @@
 # JenkinsIntegration
 
-dxgfchvjbkn
-xcdvbffe
