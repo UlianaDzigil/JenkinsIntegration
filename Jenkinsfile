@@ -8,7 +8,6 @@ pipeline {
                 sh "sudo apt install apache2"
             }
         }
-        
         stage('See Error logs') {
             steps {
                 sh "sudo tail -100 /var/log/apache2/error.log"
